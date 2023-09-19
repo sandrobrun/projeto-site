@@ -1,15 +1,15 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 body {
-    background-color: rgb(177, 241, 241);
+    background-color: rgb(157, 211, 211);
 }
 
 
 main {
-    background-color: rgb(146, 146, 190);
+    background-color: rgb(273, 273, 280);
     width: 500px;
     margin: auto;
     padding: 10px;
